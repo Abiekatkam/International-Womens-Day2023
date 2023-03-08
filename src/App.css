@@ -319,10 +319,6 @@
   align-items: center;
 }
 
-.home__stories-container__content:nth-child(even) {
-  flex-direction: row-reverse;
-}
-
 .person {
   position: relative;
   width: 16rem;
